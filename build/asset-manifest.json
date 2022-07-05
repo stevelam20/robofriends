@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71c8430b.css",
+    "main.js": "/static/js/main.26a744ed.js",
+    "static/media/RingMatrixTwo.woff": "/static/media/RingMatrixTwo.94c5c7eb203afdee2993.woff",
+    "static/media/RingMatrix.woff": "/static/media/RingMatrix.cdeefcea7db1c98d8ed3.woff",
+    "static/media/RingMatrix3D.woff": "/static/media/RingMatrix3D.c916b5b68e80c65dba3d.woff",
+    "index.html": "/index.html",
+    "main.71c8430b.css.map": "/static/css/main.71c8430b.css.map",
+    "main.26a744ed.js.map": "/static/js/main.26a744ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c8430b.css",
+    "static/js/main.26a744ed.js"
+  ]
+}
