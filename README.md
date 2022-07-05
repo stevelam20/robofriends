@@ -1,3 +1,3 @@
 # robofriends
 
-stevelam20.github.io/robofriends
+https://stevelam20.github.io/robofriends
