@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.85d1b2e2.css",
+    "main.js": "/robofriends/static/js/main.66d62a41.js",
+    "static/media/RingMatrixTwo.woff": "/robofriends/static/media/RingMatrixTwo.94c5c7eb203afdee2993.woff",
+    "static/media/RingMatrix.woff": "/robofriends/static/media/RingMatrix.cdeefcea7db1c98d8ed3.woff",
+    "static/media/RingMatrix3D.woff": "/robofriends/static/media/RingMatrix3D.c916b5b68e80c65dba3d.woff",
+    "index.html": "/robofriends/index.html",
+    "main.85d1b2e2.css.map": "/robofriends/static/css/main.85d1b2e2.css.map",
+    "main.66d62a41.js.map": "/robofriends/static/js/main.66d62a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d1b2e2.css",
+    "static/js/main.66d62a41.js"
+  ]
+}
